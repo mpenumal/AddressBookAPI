@@ -1,0 +1,9 @@
+com\manoh\coding\addressbook_api\Contact.class
+com\manoh\coding\addressbook_api\Validation\EmailValidation.class
+com\manoh\coding\addressbook_api\ElasticsearchInteraction$2.class
+com\manoh\coding\addressbook_api\SparkInteraction.class
+com\manoh\coding\addressbook_api\ElasticsearchInteraction$1.class
+com\manoh\coding\addressbook_api\Validation\PhoneValidation.class
+com\manoh\coding\addressbook_api\ReadConfigFile.class
+com\manoh\coding\addressbook_api\ElasticsearchInteraction.class
+com\manoh\coding\addressbook_api\Validation\ContactValidation.class
